@@ -36,7 +36,7 @@ Estudante de programação de Jogos Digitais.
 )
 
  5. Avançado: Adicionar um link que seja imagem, e que abra em uma nova janela
- <a href="https://Twitter.com" targuet="_blank"> ![Imagem2](explosion.png) </a>
+ <a href="https://google.com" targuet="_blank"> ![Imagem2](explosion.png)</a>
 
 ##### lalala
  ![GATINHO](https://assets.papodehomem.com.br/2015/05/30/05/42/43/431/photo.jpg)
