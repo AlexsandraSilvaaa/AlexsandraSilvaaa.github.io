@@ -27,12 +27,16 @@ ex:
 [ clique aqui](https://i.pinimg.com/originals/ec/5c/d9/ec5cd9c7756d143fe618228951b50a47.jpg)
 
 2. Adicionar uma imagem da internet:
-
 ![ clique aqui](https://i.pinimg.com/originals/ec/5c/d9/ec5cd9c7756d143fe618228951b50a47.jpg)
 
 3. Adicionar uma imagem do computador(arquivo):
-
 ![Imagem1](ae5f8ea88420a45eda103edb35cdf9a5%20-%20Cópia.png)
+
+4. Adicionar um link que seja uma imagem (url+ arquivo)
+
+[![Imagem1](ae5f8ea88420a45eda103edb35cdf9a5%20-%20Cópia.png)](https://Twitter.com
+)
+
 
 ##### lalala
  ![GATINHO](https://assets.papodehomem.com.br/2015/05/30/05/42/43/431/photo.jpg)
