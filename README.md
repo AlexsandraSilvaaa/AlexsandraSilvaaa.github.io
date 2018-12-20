@@ -28,14 +28,13 @@ Estudante de programação de Jogos Digitais.
 
 3. Adicionar uma imagem do computador(arquivo):
 ![Imagem1](ae5f8ea88420a45eda103edb35cdf9a5%20-%20Cópia.png)
-
 ![Imagem2](explosion.png)
 
 4. Adicionar um link que seja uma imagem (url+ arquivo)
 [![Imagem1](ae5f8ea88420a45eda103edb35cdf9a5%20-%20Cópia.png)](https://Twitter.com
 )
 
- 5. Avançado: Adicionar um link que seja imagem, e que abra em uma nova janela
+5. Avançado: Adicionar um link que seja imagem, e que abra em uma nova janela
  <a href="https://google.com" targuet="_blank"> ![Imagem2](explosion.png)</a>
 
 ##### lalala
