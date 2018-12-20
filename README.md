@@ -21,9 +21,6 @@ Estudante de programação de Jogos Digitais.
 ### Artes
 
 1. adicionar um link (url):
-[ Nome ou texto da imagem](link do site)
-ex:
-
 [ clique aqui](https://i.pinimg.com/originals/ec/5c/d9/ec5cd9c7756d143fe618228951b50a47.jpg)
 
 2. Adicionar uma imagem da internet:
