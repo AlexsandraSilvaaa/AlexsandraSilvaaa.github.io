@@ -32,7 +32,7 @@ ex:
 
 3. Adicionar uma imagem do computador(arquivo):
 
-![Imagem1](ae5f8ea88420a45eda103edb35cdf9a5 - Cópia.png)
+![Imagem1](ae5f8ea88420a45eda103edb35cdf9a5%20-%20Cópia.png)
 
 ##### lalala
  ![GATINHO](https://assets.papodehomem.com.br/2015/05/30/05/42/43/431/photo.jpg)
