@@ -1,7 +1,7 @@
 # Meu Portfólio
    
 ### Alexsandra Silva.
-![Imagem1](fotoo1.jpg)
+![Imagem1](fotoo1.png)
 
 ## Um pouco sobre mim...
 Meu nome é Alexsandra, porém me chamam de Sandrinha/Fofão, teho 17 anos e estou cursando o técnico integrado em Programação de Jogos digitais no campus Ceará-Mirim.
