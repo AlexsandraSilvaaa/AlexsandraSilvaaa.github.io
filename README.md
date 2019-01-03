@@ -1,14 +1,15 @@
    # Meu Portfólio
-Alexsandra Silva.
+###Alexsandra Silva.
 ![Imagem1](foto1.jpg)
 
 ## Um pouco sobre mim...
 Meu nome é Alexsandra, porém me chamam de Sandrinha/Fofão, teho 17 anos e estou cursando o técnico integrado em Programação de Jogos digitais no campus Ceará-Mirim.
 
 ### JOGOS
+#### Primeiro Jogo:
+**	Differential Parachuting** : Jogo sobre paraquedas
 
-
-
+		
 
 ### ARTES
 
