@@ -4,20 +4,20 @@
 ![Imagem1](fotoo1.png)
 
 ## Um pouco sobre mim...
-Meu nome é Alexsandra, porém me chamam de Sandrinha/Fofão, teho 17 anos e estou cursando o técnico integrado em Programação de Jogos digitais no campus Ceará-Mirim.
+Meu nome é Alexsandra, mas me chamam de Sandrinha/Fofão, teho 17 anos e estou cursando o técnico integrado em Programação de Jogos digitais no campus Ceará-Mirim.
 
 ### JOGOS
 #### Primeiro Jogo Produzido:
-**Differential Parachuting**: Um jogo sobre coragem onde um paraquedista terá que desviar de objetos que são lançados.
+**Differential Parachuting**: Um jogo sobre coragem, onde um paraquedista terá que desviar de objetos que são lançados durante o jogo.
 [Jogo](https://armindaa.github.io/JogoDeParaquedismo/)
 
-![Imagem2](b.png)
-![Imagem3](a.png)
+![Imagem2](paraquedas.png)
+
 
 ### Segundo Jogo Produzido
-**Differential Parachuting**: Jogo sobre companheirismo, onde se passa em um apocalipse zumbi.
+**Survival Apocalipse**: Se trata de um jogo de companheirismo que ocorre em um apocalipse zumbi.
 [Jogo](https://pedoronn.github.io/Survival%20Apocalype/)
-![Imagem5](Zumbi.png)
+![Imagem5](Zumbii.png)
 
 
 ### ARTES
