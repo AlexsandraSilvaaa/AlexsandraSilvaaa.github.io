@@ -18,9 +18,16 @@ Meu nome é Alexsandra, mas me chamam de Sandrinha/Fofão, teho 17 anos e estou 
 ### Segundo Jogo Produzido
 **Survival Apocalipse**: Se trata de um jogo de companheirismo que ocorre em um apocalipse zumbi.
 
-[Jogo](https://pedoronn.github.io/Survival%20Apocalype/)
+[Clique aqui para jogar](https://pedoronn.github.io/Survival%20Apocalype/)
 
 ![Imagem3](zumbii.png)
+
+### Terceiro Jogo Produzido
+**The Cowboy’s Trip**: Um jogo sobre temperatura, onde um cabeça de abóbora tenta fugir do deserto.
+
+[Clique aqui para jogar](https://armindaa.github.io/Cowboy/)
+
+![Imagem4](cowboy.png)
 
 
 ### ARTES
