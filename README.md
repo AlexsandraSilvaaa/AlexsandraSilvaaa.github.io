@@ -1,16 +1,26 @@
    # Meu Portfólio
-Maria Alexsandra
-![Imagem1] (foto1.jp)
+Alexsandra Silva.
+![Imagem1](foto1.jpg)
 
-# Contatos
+## Um pouco sobre mim...
+Meu nome é Alexsandra, porém me chamam de Sandrinha/Fofão, teho 17 anos e estou cursando o técnico integrado em Programação de Jogos digitais no campus Ceará-Mirim.
 
-1. Twitter: 
-2. Email:
-3. Sei lá:
+### JOGOS
 
-- Numero 1
-- Numero 2
-- Numero 3
+
+
+
+### ARTES
+
+
+#### Redes Sociais
+
+1. Instagram: @alexsandrasilvaa_
+2. Email: alexsandrasilvaa7@gmail.com
+3. Facebook: Alexsandra Silva
+
+
+
 
 
 ## Jogos
