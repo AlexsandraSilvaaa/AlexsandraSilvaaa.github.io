@@ -9,14 +9,17 @@ Meu nome é Alexsandra, mas me chamam de Sandrinha/Fofão, teho 17 anos e estou 
 ### JOGOS
 #### Primeiro Jogo Produzido:
 **Differential Parachuting**: Um jogo sobre coragem, onde um paraquedista terá que desviar de objetos que são lançados durante o jogo.
-[Jogo](https://armindaa.github.io/JogoDeParaquedismo/)
+
+[Clique aqui para jogar](https://armindaa.github.io/JogoDeParaquedismo/)
 
 ![Imagem2](paraquedas.png)
 
 
 ### Segundo Jogo Produzido
 **Survival Apocalipse**: Se trata de um jogo de companheirismo que ocorre em um apocalipse zumbi.
+
 [Jogo](https://pedoronn.github.io/Survival%20Apocalype/)
+
 ![Imagem3](zumbii.png)
 
 
