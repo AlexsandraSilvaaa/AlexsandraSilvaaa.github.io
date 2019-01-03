@@ -8,12 +8,10 @@ Meu nome é Alexsandra, porém me chamam de Sandrinha/Fofão, teho 17 anos e est
 
 ### JOGOS
 #### Primeiro Jogo Produzido:
-**Differential Parachuting**
+**Differential Parachuting**: 
 [Jogo](https://armindaa.github.io/JogoDeParaquedismo/)
-
-
-
-		
+![Imagem2](b.png)
+![Imagem3](a.png)
 
 ### ARTES
 
