@@ -31,7 +31,7 @@ Meu nome é Alexsandra, mas me chamam de Sandrinha/Fofão, teho 17 anos e estou 
 
 
 ### ARTES
-![Imagem4](Lançaa.jpg)
+![Imagem4](Lançaa.jpg
 
 ![Imagem5](formigaa.png)
 
@@ -39,7 +39,6 @@ Meu nome é Alexsandra, mas me chamam de Sandrinha/Fofão, teho 17 anos e estou 
 
 ![Imagem7](placa do tiro.png)
 
-![Imagem8](bg.png)
 
 #### Redes Sociais
 
