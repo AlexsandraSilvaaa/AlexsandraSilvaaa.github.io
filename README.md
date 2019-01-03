@@ -1,7 +1,5 @@
-## Meu Portfólio
-Maria Alexsandra,
-17 Anos,
-Estudante de programação de Jogos Digitais.
+   # Meu Portfólio
+Maria Alexsandra
 
 # Contatos
 
